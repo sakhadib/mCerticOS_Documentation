@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [WSL Inttegration](wsl-inttegration.md)
 
 ## Physical Memory Management
 
