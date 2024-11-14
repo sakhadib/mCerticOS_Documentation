@@ -1,6 +1,8 @@
 # WSL Inttegration
 
-Here's a consolidated guide to setting up your WSL environment for building and running CertiKOS, including package installations and necessary changes after a fresh install.
+Install WSL in windows. the related document id provided here [https://learn.microsoft.com/en-us/windows/wsl/install](https://learn.microsoft.com/en-us/windows/wsl/install)
+
+After install follow these
 
 ```bash
 # Update package list
@@ -49,5 +51,3 @@ sudo apt install -y build-essential gcc-multilib qemu-system-x86 gdb parted pyth
        ```bash
        qemu-system-x86_64 -drive file=certikos.img,format=raw
        ```
-
-Following these steps should set up and execute CertiKOS in WSL. Let me know if you encounter any issues!
