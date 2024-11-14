@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [WSL Inttegration](wsl-inttegration.md)
+* [WSL Integration](wsl-integration.md)
 
 ## Physical Memory Management
 
@@ -16,3 +16,4 @@
 * [MPTOp Layer](virtual-memory-management/mptop-layer.md)
 * [MPTComm](virtual-memory-management/mptcomm.md)
 * [MPTKern](virtual-memory-management/mptkern.md)
+* [MPTnew](virtual-memory-management/mptnew.md)
